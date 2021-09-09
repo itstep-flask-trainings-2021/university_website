@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    padding: 5px 5%;
+    background-image: url('../img/bg1.jpg');
+    background-size: 100%;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+}
+
+h1>a {
+    font-weight: bold;
+    color: rgb(0, 16, 19);
+    font-size: 140px
+}
+
+footer {
+    margin-top: 150px;
+    color: white;
+    font-size: 15px
+}
+
+nav {
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav a {
+    margin: 5px;
+    color: black;
+}
+
+.left {
+    text-align: left;
+    color: black;
+    background-color: orange;
+}
+
+.right {
+    text-align: right;
+    color: orange;
+    background-color: black;
+}
+
+.right a {
+    color: orange;
+}
+
+header {
+    padding-top: 50px;
+}
